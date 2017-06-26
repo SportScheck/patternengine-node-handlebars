@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "lib/engine_handlebars.js",
   "dependencies": {
-    "handlebars": "github:nning/handlebars.js#^4.0.6"
+    "handlebars": "github:SportScheck/handlebars.js#^4.0.8"
   },
   "devDependencies": {},
   "keywords": [
