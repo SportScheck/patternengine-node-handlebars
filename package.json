@@ -4,7 +4,7 @@
   "version": "1.0.3",
   "main": "lib/engine_handlebars.js",
   "dependencies": {
-    "handlebars": "github:SportScheck/handlebars.js#^4.0.8"
+    "handlebars": "github:SportScheck/handlebars.js#isml-comments"
   },
   "devDependencies": {},
   "keywords": [
